@@ -7,6 +7,8 @@ Put your firebase configuration in config/firebaseConfig.js
 
 Version 0.1
 
+![](screenshot.jpg)
+
 #Features :
 
 * Authentication, login, signup
